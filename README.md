@@ -1,5 +1,5 @@
 # Hashtag-based-topic-modeling
-This repository introduces a hybrid topic modeling approach for short tagged social media texts such as tweets. 
+This repository introduces a hybrid topic model for short tagged social media texts such as tweets. 
 
 Conventional topic models like Latent Dirichlet Allocation (LDA) and its variants widely used to automatically extract thematic information from regular-sized documents fail to discover essential information from short texts. Short text documents such as tweets, comparing to regular-sized documents such as news articles, lack word co-occurrence information, which leads to very sparse and high dimensional vector representations. This extreme sparsity brings challenges to applying the conventional topic models on short texts. To address this sparseness problem, we compare the following four topic models:
 
